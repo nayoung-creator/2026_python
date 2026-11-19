@@ -1,1 +1,1 @@
-# 2026_phython
+# 2026_python
